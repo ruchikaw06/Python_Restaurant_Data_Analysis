@@ -43,11 +43,12 @@ The average ratings of restaurants with and without online delivery were compare
 **Conclusion**
 Through this analysis, several insights were gained into the restaurant industry:
 
-The top three most common cuisines are determined, providing an understanding of popular food choices.
-Percentage of restaurants serving each top cuisine helps in understanding the market share of different cuisines.
-Identification of cities with the highest number of restaurants helps in targeting key locations for business opportunities.
-Average ratings for restaurants in each city provide insights into customer satisfaction levels across different locations.
-Visualizing the distribution of price ranges helps in understanding the affordability range for customers.
-Percentage of restaurants offering online delivery highlights the prevalence of this service in the industry.
-Comparison of average ratings between restaurants with and without online delivery sheds light on the impact of online delivery on customer satisfaction.
+-The top three most common cuisines are determined, providing an understanding of popular food choices.
+-Percentage of restaurants serving each top cuisine helps in understanding the market share of different cuisines.
+-Identification of cities with the highest number of restaurants helps in targeting key locations for business opportunities.
+-Average ratings for restaurants in each city provide insights into customer satisfaction levels across different locations.
+-Visualizing the distribution of price ranges helps in understanding the affordability range for customers.
+-Percentage of restaurants offering online delivery highlights the prevalence of this service in the industry.
+-Comparison of average ratings between restaurants with and without online delivery sheds light on the impact of online delivery on customer satisfaction.
+
 Overall, this analysis provides valuable insights for stakeholders in the restaurant industry, aiding in strategic decision-making and improving business performance.
